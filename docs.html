@@ -49,7 +49,7 @@
                     <ul>
                         <section id="ms">
                             <li><a class="text-primary" href="#intro">Introduction</a></li>
-                            <li><a href="#in">Topic 1</a></li>
+                            <li><a href="#in">Intoduction to HTML</a></li>
                             <li><a href="index.html"> Topic 2 </a></li>
                             <li><a href="ML.html"> <b> Machine Learning </b> </a></li>
                             <li><a href="blockchain.html"> <b> Android Development </b> </a></li>
@@ -111,18 +111,28 @@
                     <p>HyperText Markup Language is a standard markup language used to create web pages. It consists of
                         series of elements. HTML describes the structure of a web page.</p>
                     <h2>Example of a HTML file </h2>
-                    <p>
-                        <!DOCTYPE html>
+                    
+
+                    <h5>
+                        &lt;!DOCTYPE html&gt;
+                              <br>
                         &lt;html&gt;
-
-                        <head>
-                            <title>My First Webpage</title>
-                        </head>
-
-                        <body>
-                            <h1>Hello World</h1>
-                        </body>
-
+                        <br>
+                        &lt;head&gt;
+                        <br>
+                        &lt;title&gt;My First Webpage&lt;/title&gt;
+                        <br>
+                        &lt;/head&gt;
+                        <br>
+                        &lt;body&gt;
+                        <br>
+                        &lt;h1>Hello World&lt;h1/&gt;
+                        <br>
+                        &lt;/body&gt;
+                        <br>
+                        &lt;/html&gt;
+                        <br>
+                    </h5>
 </html>
 </p>
 The below output displays website titled “My First Web Page” which displays Hello World.
@@ -143,11 +153,11 @@ The below output displays website titled “My First Web Page” which displays 
 <ul>
     <li> <b> Closed Tags:</b> These tags must have end/closing tags.
         <br>
-        For Example: <p> </p>, <h1> </h1>, <a> </a> etc.
+        For Example: &lt;p&gt; &lt;/p&gt;, &lt;a&gt; &lt;/a&gt;, &lt;h1&gt; &lt;/h1&gt;, etc.
     </li>
     <li><b>Unclosed Tags</b> These tags don’t have any end/closing tags.
         <br>
-        For Example: <img>,<br> etc.
+        For Example: &lt;img&gt;,&lt;br&gt; etc.
     </li>
 </ul>
 <h2>Types of HTML Tags</h2>
@@ -155,11 +165,108 @@ The below output displays website titled “My First Web Page” which displays 
 <h2>The Heading Tag
 </h2>
 <p>The heading tags give heading to the HTML document. It starts with
-<h1> being the largest heading and ends with <h6> being the smallest.
+    &lt;&gt; being the largest heading and ends with &lt;h6&gt;being the smallest.
         <br>
-        Syntax : <h1> Heading </h1>
-        Attributes:
+        Syntax : &lt;h1&gt; Heading &lt;/h1&gt;
+       <br>
+        Attributes:&lt;h2&gt; &lt/h2&gt; ,
+        &lt;h3&gt; &lt/h3&gt;,  
+        &lt;h4&gt; &lt/h4&gt;,  
+        &lt;h5&gt; &lt/h5&gt;,
+        &lt;h6&gt; &lt/h6&gt;.
         </p>
+        <h2>
+            The Paragraph Tag 
+        </h2>
+        <p>
+            The paragraph tag is used to insert paragraphs in html. 
+            <br>
+            Syntax : &lt;p&gt; &lt/p&gt;
+            <br>
+            Attributes: align
+        </p>
+    </p>
+    <h2>
+        The Image tag 
+    </h2>
+    <p>
+        The paragraph tag is used to insert paragraphs in html. 
+        <br>
+        Syntax :  &lt;img&gt;
+        <br>
+        Attributes: src,scrset, alt, height, width, ismap, sizes.
+
+    </p>
+    <h2>
+        The Body Tag 
+    </h2>
+    <p>
+        This tag contains all the content which need to be displayed in the HTML document.
+        <br>
+        Syntax :  &lt;body&gt; &lt;/body&gt;
+    </p>
+    <h2>
+        The Anchor Tags 
+    </h2>
+    <p>
+        This tag is used to create a hyperlink which is used to redirect from one HTML document to another 
+        <br>
+        Syntax :  &lt;a&gt; &lt;/a&gt;
+        <br>
+        Attributes: href, media,pind,target,type, etc.
+    </p>
+    <h2>
+        The Line Brake Tag 
+    </h2>
+    <p>
+        This tag produces a line brake produces a line brake in the HTML Document   
+        <br>
+        Syntax :  &lt;br&gt;
+    </p>
+    <h2>Tables in HTML </h2>
+    <p>
+        We can create tables in HTML by using table tag.
+          <br>
+          Syntax :  &lt;table&gt; &lt;/table&gt;
+    </p>
+    <h2>Table Header Tag</h2>
+    <p>
+        This tag used to insert row in HTML document. 
+          <br>
+          Syntax :  &lt;th&gt; &lt;/th&gt;
+    </p>
+    <h2>Table Row Tag </h2>
+    <p>
+        This tag used to insert row in HTML document. 
+          <br>
+          Syntax :  &lt;tr&gt; &lt;/tr&gt;
+    </p>
+    <h2>Table Cell Tags </h2>
+    <p>
+        These are used to insert  cells in tables.
+          <br>
+          Syntax :  &lt;td&gt; &lt;/td&gt;
+    </p>
+    <h1>Cascading Style Sheets</h1>
+    <p>
+        CSS stands for Cascading Style Sheets. It is a style sheet language which is used to describe the look and formatting of a HTML document. It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces. 
+        <br>
+       
+
+         <ul>
+    
+          <li>Inline CSS</li>
+          <li>Internal CSS</li>
+          <li>External CSS</li>
+         </ul>
+
+    </p>
+    <h3>Inline CSS</h3>
+    <p>Inline CSS is used to apply CSS on a single line or element. </p>
+    <h3>Internal CSS</h3>
+    <p>Internal CSS is used to apply CSS on a single document or page. It can affect all the elements of the page. It is written inside the style tag within head section of html. </p>
+    <h3>External CSS</h3>
+    <p>External CSS is used to apply CSS on multiple pages or all pages. Here, we write all the CSS code in a css file. Its extension must be .css for example style.css.</p>
         </section>
 
         </div>
