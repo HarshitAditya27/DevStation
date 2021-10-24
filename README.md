@@ -68,12 +68,18 @@ npm run dev
 Hurray 🥳, you successfully deployed the project in your local machine 🎉.  
 
  ## Screenshots 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1605).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1606).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1607).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1608).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1609).png?raw=true"> 
-  <img src="https://github.com/HarshitAditya27/Pictures-for-Projects/blob/master/Screenshot%20(1610).png?raw=true"> 
+ 
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/711/741/datas/gallery.jpg"> 
+  
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/711/743/datas/gallery.jpg"> 
+  
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/711/742/datas/gallery.jpg"> 
+  
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/711/744/datas/gallery.jpg"> 
+  
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/711/748/datas/gallery.jpg"> 
+  
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/711/752/datas/gallery.jpg"> 
   
 ## What's next for DevStation 🎆
 We are planning to make it an open-source project and help people to get started with their open source journey 😃. 
