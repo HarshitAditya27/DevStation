@@ -1,8 +1,9 @@
-# DevStation 
+<p align = 'center'>
+ <a href='https://devlopershome.herokuapp.com'>
+  <img src = "https://img.shields.io/badge/Dev_Station-FF61cd?style=round" radius="10%" width = '40%'/></a>
+</p>
 
-Deployed Link: https://devlopershome.herokuapp.com/  
-
-Video Link: https://youtu.be/iIOBs3eHEDM
+[Video Demo Link](https://youtu.be/iIOBs3eHEDM)
 
 ## Inspiration
 Many Students after graduating from school don't know about the Computer Science field and they get misguided easily so we have created a platform DevStation where we are providing beginner-friendly documentation and community of different tech satcks where can connect to other members get guidance and mentorship.
@@ -26,3 +27,4 @@ Integrating SAWO LAB API, learned how to create documentation page, and also lea
 
 ## What's next for DevStation
 We are planning to make it an open-source project.
+
