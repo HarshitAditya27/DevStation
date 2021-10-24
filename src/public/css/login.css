@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Varta:wght@300&display=swap');
+.navbar {
+    background-color: #00EAD3;
+    color: #fff;
+    height: 70px;
+  }
+  
+  .navbar ul {
+    display: flex;
+  }
+  
+  .navbar a {
+    color: #fff;
+    padding: 10px;
+    margin: 0 5px;
+  }
+  
+  .navbar a:hover {
+    border-bottom: 2px #fff solid;
+  }
+  
+  .navbar .flex {
+    justify-content: space-between;
+  }
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+  }
+  .flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  } 
+
+  h1 {
+     
+    font-weight: 300;
+  
+}
+  
+* {
+    padding: 0;
+  margin: 0;
+    box-sizing: border-box;
+}
+ body{ 
+  font-family: 'Varta', sans-serif;
+ }
